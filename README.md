@@ -26,7 +26,7 @@
 
 
 <p>&nbsp;</p>
-<p style="margin-left:200px">
+<p align="center">
 <img width="48" height="48" alt='firebase' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 <img width="48" height="48" alt='git' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 <img width="48" height="48" alt='git' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
