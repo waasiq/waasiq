@@ -13,6 +13,7 @@
 
 ## 👨🏻‍💻 My Languages/Tools:
 <div>
+<p>&nbsp;</p>
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> 
@@ -25,7 +26,7 @@
 
 
 <p>&nbsp;</p>
-<p align="center">
+<p style="margin-left:200px">
 <img width="48" height="48" alt='firebase' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 <img width="48" height="48" alt='git' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
 <img width="48" height="48" alt='git' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
@@ -82,8 +83,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=cyber-intern&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
   <a href="https://github.com/waasiq/cancerware">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=cancerware&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
-  <a href="https://github.com/waasiq/project-euler">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=project-euler&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
+  <a href="https://github.com/waasiq/water-quality-anomaly-detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=water-quality-anomaly-detection&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
   
 
 
