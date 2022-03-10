@@ -76,8 +76,8 @@
   <a href="https://github.com/waasiq/facebook-clone-react">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=facebook-clone-react&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
 
-  <a href="https://github.com/waasiq/yakamoz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=yakamoz&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" />
+  <a href="https://github.com/waasiq/KeyFinder">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=KeyFinder&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" />
   </a>
 
   <a href="https://github.com/waasiq/icare">
