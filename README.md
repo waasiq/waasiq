@@ -4,9 +4,9 @@
 
 ## 📚 About Me:
 <a href="https://github.com/waasiq/"><img align="right" width="350" height="263" src="./Misc/aboutme.gif"></a>
-  - 👨‍💻 I'm a Cyber Security and Machine Learning Intern at <a href = "https://center.sakarya.edu.tr//"> CENTER SAU</a>. 
+  - 👨‍💻 Currently I'm actively looking for internships in Software Engineering or Web Development.
   - 🎓 I'm studying Computer Engineering at Sakarya University, Sakarya. I'm expecting to graduate in 2023.
-  - 🎯 I'm currently working on a <a href="https://github.com/waasiq/water-quality-anomaly-detection">machine learning module for detection of anomalies in water quality.</a>
+  - 🎯 I'm currently working on a <a href="https://github.com/waasiq/yakamoz">yakamoz.</a>
   - 📧 You can reach me at: waasiqmasood@gmail.com
 
 <p>&nbsp;</p>
@@ -73,18 +73,26 @@
 
 ## 🚀 My Projects:
 <p align="center">
-  <a href="https://github.com/waasiq/facebook-react-clone">
+  <a href="https://github.com/waasiq/facebook-clone-react">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=facebook-clone-react&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
+
+  <a href="https://github.com/waasiq/yakamoz">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=yakamoz&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" />
+  </a>
+
   <a href="https://github.com/waasiq/icare">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=icare&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
-  <a href="https://github.com/waasiq/web-technology-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&theme=tokyonight&repo=web-technology-project&hide_border=true&border_radius=15&&line_height=24" /></a>
-  <a href="https://github.com/waasiq/cyber-intern">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=cyber-intern&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
-  <a href="https://github.com/waasiq/cancerware">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=cancerware&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
+
   <a href="https://github.com/waasiq/water-quality-anomaly-detection">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=water-quality-anomaly-detection&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
+
+  <a href="https://github.com/waasiq/leetcode">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=leetcode&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
+
+  <a href="https://github.com/waasiq/web-technology-project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&theme=tokyonight&repo=web-technology-project&hide_border=true&border_radius=15&&line_height=24" /></a>
+  
+
   
 
 
