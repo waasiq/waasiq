@@ -6,7 +6,7 @@
 <a href="https://github.com/waasiq/"><img align="right" width="350" height="263" src="./Misc/aboutme.gif"></a>
   - 👨‍💻 Currently I'm actively looking for internships in Software Engineering or Web Development.
   - 🎓 I'm studying Computer Engineering at Sakarya University, Sakarya. I'm expecting to graduate in 2023.
-  - 🎯 I'm currently working on a <a href="https://github.com/waasiq/yakamoz">yakamoz.</a>
+  - 🎯 I'm currently working on web compiler for <a href="https://github.com/waasiq/yakamoz">yakamoz.</a>
   - 📧 You can reach me at: waasiqmasood@gmail.com
 
 <p>&nbsp;</p>
@@ -71,17 +71,20 @@
   
 <p>&nbsp;</p>
 
+<!-- PROJECTS -->
+
 ## 🚀 My Projects:
 <p align="center">
+  <a href="https://github.com/waasiq/yakamoz">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=yakamoz&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" />
+  </a>
+
   <a href="https://github.com/waasiq/facebook-clone-react">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=facebook-clone-react&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
 
   <a href="https://github.com/waasiq/icare">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=icare&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
 
-  <a href="https://github.com/waasiq/KeyFinder">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=KeyFinder&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" />
-  </a>
 
   <a href="https://github.com/waasiq/water-quality-anomaly-detection">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=water-quality-anomaly-detection&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
