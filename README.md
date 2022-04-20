@@ -6,7 +6,9 @@
 <a href="https://github.com/waasiq/"><img align="right" width="350" height="263" src="./Misc/aboutme.gif"></a>
   - 👨‍💻 Currently I'm actively looking for internships in Software Engineering or Web Development.
   - 🎓 I'm studying Computer Engineering at Sakarya University, Sakarya. I'm expecting to graduate in 2023.
-  - 🎯 I'm currently working on web compiler for <a href="https://github.com/waasiq/yakamoz">yakamoz.</a>
+  - 📙 I am interested in front-end web development, software engineering, malware analysis, cryptography. 
+  - 📚 I am learning NodeJS and ExpressJS for backend development.
+  - 🎯 I'm currently working on dangerous dave. <a href="https://github.com/waasiq/dangerous-dave">yakamoz.</a>
   - 📧 You can reach me at: waasiqmasood@gmail.com
 
 <p>&nbsp;</p>
@@ -86,14 +88,14 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=icare&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
 
 
-  <a href="https://github.com/waasiq/water-quality-anomaly-detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=water-quality-anomaly-detection&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
+  <a href="https://github.com/waasiq/dangerous-dave">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=dangerous-dave&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
 
   <a href="https://github.com/waasiq/leetcode">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=leetcode&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
 
-  <a href="https://github.com/waasiq/web-technology-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&theme=tokyonight&repo=web-technology-project&hide_border=true&border_radius=15&&line_height=24" /></a>
+  <a href="https://github.com/waasiq/cancerware">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&theme=tokyonight&repo=cancerware&hide_border=true&border_radius=15&&line_height=24" /></a>
   
 
   
