@@ -1,4 +1,4 @@
-<img src="./Misc/waasiq-2.gif" />
+<!-- <img src="./Misc/waasiq-2.gif" /> -->
 
 <p>&nbsp;</p>
 
@@ -88,8 +88,8 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=icare&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
 
 
-  <a href="https://github.com/waasiq/dangerous-dave">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=dangerous-dave&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
+  <a href="https://github.com/waasiq/project-euler">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=project-euler&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
 
   <a href="https://github.com/waasiq/leetcode">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&repo=leetcode&theme=tokyonight&hide_border=true&border_radius=15&&line_height=24" /></a>
