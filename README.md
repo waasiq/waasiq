@@ -4,12 +4,12 @@
 
 ## 📚 About Me:
 <a href="https://github.com/waasiq/"><img align="right" width="350" height="263" src="./Misc/aboutme.gif"></a>
-  - 👨‍💻 I am working as a Backend Developer Intern at <a href="https://trapmine.com/">Trapmine</a>
+  - 👨‍💻 I am working as Full stack developer at <a href="https://www.mmmgroup.com/en">MMM GmbH.</a>
   - 🎓 I am last year Computer Engineering student at Sakarya University, Turkey.
-  - 📙 I am interested in full stack web development, malware analysis, web exploitation and software development. 
-  - 📚 Currently I am learning Dynamodb and Amazon cloud services for my internship.
-  - 🎯 I'm working on a backend application to display cybersecurity data from Amazon cloud services.
-  - 📧 You can reach me at: waasiqmasood@gmail.com or waasiq@trapmine.com
+  - 📙 I am interested in full stack web development, malware anaylsis and self quantification. 
+  - 📚 As a side project I am working on my personal digital garden. You can check it out <a href="https://github.com/waasiq/exobrain" > here.</a>
+  - 🎯 I'm working on a full stack enterprise application for my company.
+  - 📧 You can reach me at: waasiqmasood@gmail.com.
 
 <p>&nbsp;</p>
 
@@ -45,7 +45,6 @@
 
 <p align="center">
 <a href = "mailto:waasiqmasood@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
-<a href = https://github.com/waasiq><img src='https://img.icons8.com/color/2x/github--v1.png' alt='github' height='40'></a>
 <a href = https://www.linkedin.com/in/iwaasiq/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
 <a href = https://www.facebook.com/waasiq.masood/><img src='https://img.icons8.com/color/2x/facebook-new.png' alt='facebook' height='40'></a>
 <a href = https://www.instagram.com/iwaasiq/><img src='https://cdn.icon-icons.com/icons2/1826/PNG/512/4202090instagramlogosocialsocialmedia-115598_115703.png' alt='instagram' height='40'></a>
