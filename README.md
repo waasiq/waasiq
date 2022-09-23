@@ -2,13 +2,15 @@
 
 <p>&nbsp;</p>
 
+
 ## 📚 About Me:
-<a href="https://github.com/waasiq/"><img align="right" width="350" height="263" src="./Misc/aboutme.gif"></a>
+<a href="https://github.com/waasiq/"><img align="right" width="350" height="263" src="./Misc/coding.gif"></a> 
   - 👨‍💻 I am working as Full stack developer at <a href="https://www.mmmgroup.com/en">MMM GmbH.</a>
   - 🎓 I am last year Computer Engineering student at Sakarya University, Turkey.
   - 📙 I am interested in full stack web development, malware anaylsis and self quantification. 
   - 📚 As a side project I am working on my personal digital garden. You can check it out <a href="https://github.com/waasiq/exobrain" > here.</a>
   - 🎯 I'm working on a full stack enterprise application for my company.
+  - 🎮 I love playing video games.
   - 📧 You can reach me at: waasiqmasood@gmail.com.
 
 <p>&nbsp;</p>
@@ -17,24 +19,31 @@
 <div>
 <p>&nbsp;</p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="57" height="55"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="57" height="55"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="57" height="55"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="57" height="55"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="javascript" width="57" height="55"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="javascript" width="57" height="55"/> 
-<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="php" width="57" height="55"/> 
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 
 <p>&nbsp;</p>
 <p align="center">
-<img width="48" height="48" alt='firebase' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
-<img width="48" height="48" alt='git' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
-<img width="48" height="48" alt='git' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/ddjrgww-846ce429-3b0d-4ad8-bf6d-ac52dfe48201.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjE3ZDVlYTAtNjIzZC00MGIxLTliMzEtMDI3YjkwNGE1ZjE1XC9kZGpyZ3d3LTg0NmNlNDI5LTNiMGQtNGFkOC1iZjZkLWFjNTJkZmU0ODIwMS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.ZkEnCXJtjhT0v0UEQF7_k0VfiSaIoZa-YlerQJG-CXw" alt="vscode" width="48" height="48"/> 
-<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/217d5ea0-623d-40b1-9b31-027b904a5f15/ddjvwxd-b25523cb-c1c0-4716-8e55-3efdc015abef.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMjE3ZDVlYTAtNjIzZC00MGIxLTliMzEtMDI3YjkwNGE1ZjE1XC9kZGp2d3hkLWIyNTUyM2NiLWMxYzAtNDcxNi04ZTU1LTNlZmRjMDE1YWJlZi5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.78tZSYZMHR4zWvx9nAu-JvXy-nPKCwMmxdBePKEvB08" alt="vs" width="48" height="48"/> 
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
+
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 </div>
 </p>
@@ -44,13 +53,15 @@
   ---
 
 <p align="center">
-<a href = "mailto:waasiqmasood@gmail.com"><img src='https://img.icons8.com/color/48/000000/gmail.png' alt='gmail' height='40'></a>
-<a href = https://www.linkedin.com/in/iwaasiq/><img src='https://img.icons8.com/color/2x/linkedin.png' alt='linkedin' height='40'></a>
-<a href = https://www.facebook.com/waasiq.masood/><img src='https://img.icons8.com/color/2x/facebook-new.png' alt='facebook' height='40'></a>
-<a href = https://www.instagram.com/iwaasiq/><img src='https://cdn.icon-icons.com/icons2/1826/PNG/512/4202090instagramlogosocialsocialmedia-115598_115703.png' alt='instagram' height='40'></a>
+<a href="mailto:waasiqmasood@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail'></a>
+<a href="https://www.linkedin.com/in/iwaasiq"/><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'></a>
+<a href="https://www.facebook.com/waasiq.masood"/><img src='https://img.shields.io/badge/Facebook%20Gaming-015BE5?style=for-the-badge&logo=facebookgaming&logoColor=white' alt='facebook'></a>
+<a href="https://www.instagram.com/iwaasiq"/><img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' alt='instagram' ></a>
 
 <p>&nbsp;</p>
 
+<details>
+<summary>My Github Stats</summary>
 
 ## 📈 My Github Stats:     <a href="https://github.com/waasiq"> <img src="https://komarev.com/ghpvc/?username=waasiq&label=Profile+Views&color=2e8b57&style=flat" /></a>
 
@@ -69,7 +80,7 @@
 
   ---
   
-
+</details>
   
 <p>&nbsp;</p>
 
@@ -97,7 +108,6 @@
   <a href="https://github.com/waasiq/cancerware">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=waasiq&theme=tokyonight&repo=cancerware&hide_border=true&border_radius=15&&line_height=24" /></a>
   
-
   
 
 
