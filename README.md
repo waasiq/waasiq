@@ -5,48 +5,47 @@
 
 ## 📚 About Me:
 <a href="https://github.com/waasiq/"><img align="right" width="350" height="263" src="./Misc/coding.gif"></a> 
-  - 👨‍💻 I am working as Full stack developer at <a href="https://www.mmmgroup.com/en">MMM GmbH.</a>
-  - 🎓 I am last year Computer Engineering student at Sakarya University, Turkey.
-  - 📙 I am interested in full stack web development, malware anaylsis and self quantification. 
-  - 📚 As a side project I am working on my personal digital garden. You can check it out <a href="https://github.com/waasiq/exobrain" > here.</a>
-  - 🎯 I'm working on a full stack enterprise application for my company.
-  - 🎮 I love playing video games.
-  - 📧 You can reach me at: waasiqmasood@gmail.com.
-
+<div style="padding-right:7px;" >
+<ul style="line-height: 25px;" >
+  <li> 👨‍💻 I am working as Full stack developer at <a href="https://www.mmmgroup.com/en">MMM GmbH. </a> </li>
+  <li>🎓 I am last year Computer Engineering student at Sakarya University, Turkey.</li>
+  <li>📙 I am interested in full stack web development, malware anaylsis and self quantification. </li>
+  <li>📚 As a side project I am working on my personal digital garden. You can check it out <a href="https://github.com/waasiq/exobrain" > here.</a></li>
+  <li>🎯 I'm working on a full stack enterprise application for my company.</li>
+  <li>🎮 I love playing video games.</li>
+  <li>📧 You can reach me at: waasiqmasood@gmail.com.</li>
+</div>
 <p>&nbsp;</p>
+
+![Snake](https://raw.githubusercontent.com/waasiq/waasiq/983af7981b7422e64c764ad513e348cc4c1f665b/github-contribution-grid-snake.svg)
 
 ## 👨🏻‍💻 My Languages/Tools:
 <div>
 <p>&nbsp;</p>
 <p align="center">
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> 
+<img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/> 
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs"/> 
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> 
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> 
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/> 
+<img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/> 
+<img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp"/> 
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/> 
+<img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c"/> 
+</p>
 
 <p>&nbsp;</p>
 <p align="center">
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
-
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-</div>
+<img  alt='vscode' src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img  alt='git' src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img  alt='opencv' src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon" alt="spyder" /> 
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" />
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
 </p>
+</div>
+
 <p>&nbsp;</p>
 
 ## ☎️ Contact Me:
