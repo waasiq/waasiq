@@ -5,14 +5,15 @@
 
 ## 📚 About Me:
 
-<a href="https://github.com/waasiq/"><img align="right" width="325" height="263" src="./Misc/coding.gif"></a> 
+<a href="https://github.com/waasiq/"><img align="right" width="350" height="263" src="./Misc/coding.gif"></a> 
 <div align="left">
 <ul style="line-height: 25px;" >
   <li> 👨‍💻 I am working as Full stack developer at <a href="https://www.mmmgroup.com/en">MMM GmbH. </a> </li>
   <li>🎓 I am last year Computer Engineering student at Sakarya University, Turkey.</li>
   <li>📙 I am interested in full stack web development, cyber security and 
   self quantification. </li>
-  <li>📚 As a side project I am working on my personal digital garden. You can check it out <a href="https://github.com/waasiq/exobrain"> here.</a></li>
+  <li>📚 As a side project I am working on my personal digital garden.
+  You can check it out <a href="https://github.com/waasiq/exobrain"> here.</a></li>
   <li>🎯 I'm working on a full stack enterprise application for my company.</li>
   <li>🎮 I love playing <a href="https://exobrain-waasiq.netlify.app/docs/games/" >video games</a></li>
   <li>📧 You can reach me at <a href="mailto:waasiqmasood@gmail.com">here</a></li>
