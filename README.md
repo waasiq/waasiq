@@ -4,17 +4,20 @@
 
 
 ## 📚 About Me:
-<a href="https://github.com/waasiq/"><img align="right" width="350" height="263" src="./Misc/coding.gif"></a> 
-<div style="padding-right:7px;" >
+
+<a href="https://github.com/waasiq/"><img align="right" width="325" height="263" src="./Misc/coding.gif"></a> 
+<div align="left">
 <ul style="line-height: 25px;" >
   <li> 👨‍💻 I am working as Full stack developer at <a href="https://www.mmmgroup.com/en">MMM GmbH. </a> </li>
   <li>🎓 I am last year Computer Engineering student at Sakarya University, Turkey.</li>
-  <li>📙 I am interested in full stack web development, malware anaylsis and self quantification. </li>
-  <li>📚 As a side project I am working on my personal digital garden. You can check it out <a href="https://github.com/waasiq/exobrain" > here.</a></li>
+  <li>📙 I am interested in full stack web development, cyber security and 
+  self quantification. </li>
+  <li>📚 As a side project I am working on my personal digital garden. You can check it out <a href="https://github.com/waasiq/exobrain"> here.</a></li>
   <li>🎯 I'm working on a full stack enterprise application for my company.</li>
-  <li>🎮 I love playing video games.</li>
-  <li>📧 You can reach me at: waasiqmasood@gmail.com.</li>
+  <li>🎮 I love playing <a href="https://exobrain-waasiq.netlify.app/docs/games/" >video games</a></li>
+  <li>📧 You can reach me at <a href="mailto:waasiqmasood@gmail.com">here</a></li>
 </div>
+
 <p>&nbsp;</p>
 
 ![Snake](https://raw.githubusercontent.com/waasiq/waasiq/983af7981b7422e64c764ad513e348cc4c1f665b/github-contribution-grid-snake.svg)
@@ -29,6 +32,7 @@
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> 
 <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> 
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php"/> 
+<img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/>
 <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/> 
 <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp"/> 
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/> 
@@ -43,19 +47,29 @@
 <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon" alt="spyder" /> 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" />
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
+<img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="dynamodb" />
+<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="firebase" />
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
 </p>
 </div>
 
 <p>&nbsp;</p>
 
-## ☎️ Contact Me:
-  ---
 
+
+<details>
+<summary>Contact me</summary>
+
+## ☎️ Contact Me:
+
+
+  ---
 <p align="center">
 <a href="mailto:waasiqmasood@gmail.com"><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail'></a>
 <a href="https://www.linkedin.com/in/iwaasiq"/><img src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'></a>
-<a href="https://www.facebook.com/waasiq.masood"/><img src='https://img.shields.io/badge/Facebook%20Gaming-015BE5?style=for-the-badge&logo=facebookgaming&logoColor=white' alt='facebook'></a>
-<a href="https://www.instagram.com/iwaasiq"/><img src='https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white' alt='instagram' ></a>
+
+</details>
 
 <p>&nbsp;</p>
 
