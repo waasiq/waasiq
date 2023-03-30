@@ -6,7 +6,7 @@
 ## 📚 About Me:
 
 <a href="https://github.com/waasiq/"><img align="right" width="350" height="263" src="./Misc/coding.gif"></a> 
-<div align="left">
+<div align="left" style="padding-right: 5px;">
 <ul style="line-height: 25px;" >
   <li> 👨‍💻 I am looking for full stack web development jobs at the moment. </li>
   <li>🎓 I am last semester Computer Engineering student at Sakarya University, Turkey.</li>
