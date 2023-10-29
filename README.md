@@ -8,14 +8,14 @@
 </a>
  
 <div align="left" style="padding-right: 5px;">
-  <ul style="line-height: 25px;" >
-    <li> 👨‍💻 I am working as a full-stack engineer at<a href="https://ob2.ai/">ob2.ai</a></li>
+  <ul style="line-height: 25px;">
+    <li> 👨‍💻 I am working as a full-stack engineer at <a href="https://ob2.ai/" style="text-decoration: none;">ob2.ai</a></li>
     <li>📙 I am interested in web development, cyber security and self quantification.</li>
     <li>📚 As a side project I am working on my personal digital garden.
-    You can check it out <a href="https://github.com/waasiq/exobrain"> here.</a></li>
-    <li>🎯 I'm working on <a href="https://registate.com/en">Registate</a> and <a href="https://www.ob2.ai/solutions/trailblitz">Trailblitz</a>.</li>
-    <li>🎮 I love playing <a href="https://exobrain-waasiq.netlify.app/docs/games/" >video games</a></li>
-    <li>📧 You can reach me at <a href="mailto:waasiqmasood@gmail.com">here</a></li>
+      You can check it out <a href="https://github.com/waasiq/exobrain" style="text-decoration: none;">here.</a></li>
+    <li>🎯 I'm working on <a href="https://registate.com/en" style="text-decoration: none;">Registate</a> and <a href="https://www.ob2.ai/solutions/trailblitz" style="text-decoration: none;">Trailblitz</a>.</li>
+    <li>🎮 I love playing <a href="https://exobrain-waasiq.netlify.app/docs/games/" style="text-decoration: none;">video games</a></li>
+    <li>📧 You can reach me at <a href="mailto:waasiqmasood@gmail.com" style="text-decoration: none;">here</a></li>
   </ul>
 </div>
 
@@ -50,7 +50,6 @@
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
     <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" alt="dynamodb" />
     <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="firebase" />
-    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="docker" />
   </p>
 </div>
@@ -59,9 +58,7 @@
 
 <details>
 <summary>Contact me</summary>
-
 ## ☎️ Contact Me:
----
 <p align="center">
   <a href="mailto:waasiqmasood@gmail.com">
     <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='gmail'>
@@ -83,19 +80,19 @@
     <img src="https://komarev.com/ghpvc/?username=waasiq&label=Profile+Views&color=2e8b57&style=flat" />
   </a>
 
-  ---
   <a href="https://github.com/waasiq">
     <img height="160px" src="https://github-readme-stats.vercel.app/api?username=waasiq&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24" />
   </a>
+
   <a href="https://github.com/waasiq/">
-    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waasiq&theme=tokyonight&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&" />
+    <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waasiq&theme=tokyonight&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&" /> 
   </a>
-  ---
+
   <p align="center">
   <a href="https://github.com/waasiq/">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=waasiq&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt='stats' />
   </a>
-  ---
+
 </details>
   
 <p>&nbsp;</p>
