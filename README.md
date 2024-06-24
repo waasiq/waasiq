@@ -9,13 +9,12 @@
  
 <div align="left" style="padding-right: 5px;">
   <ul style="line-height: 25px;">
-    <li> 👨‍💻 I am working as a full-stack engineer at <a href="https://ob2.ai/" style="text-decoration: none;">ob2.ai</a></li>
-    <li>📙 I am interested in web development, cyber security and self quantification.</li>
-    <li>📚 As a side project I am working on my personal digital garden.
+    <li>📚 I am a graduate computer science student at <a href="https://uni-freiburg.de/en/">University of Freiburg</a>, Freiburg, Germany.</li>
+    <li>👨‍💻 I am working as a full-stack engineer at <a href="https://ob2.ai/" style="text-decoration: none;">ob2.ai</a></li>
+    <li>📙 I am interested in web development, machine learning and self quantification.</li>
+    <li>⏰ As a side project I am working on my personal digital garden.
       You can check it out <a href="https://github.com/waasiq/exobrain" style="text-decoration: none;">here.</a></li>
-    <li>🎯 I'm working on <a href="https://registate.com/en" style="text-decoration: none;">Registate</a> and <a href="https://www.ob2.ai/solutions/trailblitz" style="text-decoration: none;">Trailblitz</a>.</li>
-    <li>🎮 I love playing <a href="https://exobrain-waasiq.netlify.app/docs/games/" style="text-decoration: none;">video games</a></li>
-    <li>📧 You can reach me at <a href="mailto:waasiqmasood@gmail.com" style="text-decoration: none;">here</a></li>
+    <li>📧 If you want to collabrate with me or have an interesting offer, do not hesitate to reach out to me at <a href="mailto:waasiqmasood@gmail.com" style="text-decoration: none;">here</a></li>
   </ul>
 </div>
 
@@ -31,20 +30,20 @@
     <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="next-js"/> 
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/> 
     <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/> 
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)" alt="golang">
     <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs"/> 
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> 
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/> 
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="python"/> 
     <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/>
-    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp"/> 
-    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp"/> 
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp"/>
   </p>
 
   <p>&nbsp;</p>
   <p align="center">
     <img  alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img  alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-    <img  alt="opencv" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
+    <img alt="aws" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon" alt="spyder" /> 
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" />
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" />
