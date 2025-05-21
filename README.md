@@ -1,9 +1,28 @@
 <!-- <img src="./Misc/waasiq-2.gif" /> -->
+```TypeScript
+import { SoftwareEngineer } from "Careers";
+
+const me = new SoftwareEngineer({
+  name: "Waasiq Masood",
+  currentOccupation: "Software Dev Endress+Hauser",
+  university: "Masters in AI Uni Freiburg",
+  skills: {
+    languages: ["Python", "JavaScript", "TypeScript", "Java", "Golang"],
+    frameworks: {
+      frontend: ["Next.js", "React.js", "TailwindCSS"],
+      backend: ["Node", "Express", "Golang", "Flask"],
+    },
+    databases: ["MongoDB", "PostgreSQL"],
+    tools: ["Git", "Docker", "Gihub Actions", "GCP", "AWS"],
+  },
+  interests: ["Software Development", "Artificial Intelligence", "Web Development"],
+});
+```
 <p>&nbsp;</p>
 
-## 📚 About Me:
+<!-- ## 📚 About Me: -->
 
-<a href="https://github.com/waasiq/">
+<!-- <a href="https://github.com/waasiq/">
   <img align="right" width="350" height="263" src="./Misc/coding.gif">
 </a>
  
@@ -18,10 +37,10 @@
   </ul>
 </div>
 
-<p>&nbsp;</p>
+<p>&nbsp;</p> -->
 
 ![Snake](https://raw.githubusercontent.com/waasiq/waasiq/983af7981b7422e64c764ad513e348cc4c1f665b/github-contribution-grid-snake.svg)
-
+<!-- 
 ## 👨🏻‍💻 My Languages/Tools:
 
 <div>
@@ -53,9 +72,9 @@
   </p>
 </div>
 
-<p>&nbsp;</p>
+<p>&nbsp;</p> -->
 
-<details>
+<!-- <details>
 <summary>Contact me</summary>
 ## ☎️ Contact Me:
 <p align="center">
@@ -70,27 +89,27 @@
 </details>
 
 <p>&nbsp;</p>
-<details>
+<details> -->
 
-<summary>My Github Stats</summary>
+<!-- <summary>My Github Stats</summary> -->
 
-## 📈 My Github Stats:
+<!-- ## 📈 My Github Stats: -->
   <a href="https://github.com/waasiq">
     <img src="https://komarev.com/ghpvc/?username=waasiq&label=Profile+Views&color=2e8b57&style=flat" />
   </a>
-
+<!-- 
   <a href="https://github.com/waasiq">
     <img height="160px" src="https://github-readme-stats.vercel.app/api?username=waasiq&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&border_radius=15&line_height=24" />
-  </a>
+  </a> -->
 
-  <a href="https://github.com/waasiq/">
+  <!-- <a href="https://github.com/waasiq/">
     <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waasiq&theme=tokyonight&langs_count=6&layout=compact&hide_border=true&border_radius=15&line_height=24&card_width=380&" /> 
-  </a>
-
+  </a> -->
+<!-- 
   <p align="center">
   <a href="https://github.com/waasiq/">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=waasiq&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt='stats' />
-  </a>
+  </a> -->
 
 </details>
   
